@@ -1,4 +1,5 @@
 # Mein erstes Git-Repositurium 
 
-- 2021-11-30
+- **Dana Söte**
+- *2021-11-30*
 
